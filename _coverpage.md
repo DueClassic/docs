@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Duoclassic</h1>
 [GitHub](https://github.com/DueClassic/docs)
-[开始阅读](#Duoclassic)
+[开始阅读](#duoclassic)
 
 
 
