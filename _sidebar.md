@@ -42,3 +42,7 @@
   - [JVM](./docs/Java/JVM.md)
   - [框架](./docs/Java/框架/SpringBoot自动配置.md)
   - [动态代理](./docs/Java/动态代理/动态代理.md)
+  
+* 云计算
+
+  - [腾讯云](./docs/云计算/云计算.md)
